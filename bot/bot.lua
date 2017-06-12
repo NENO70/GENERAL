@@ -72,11 +72,11 @@ function create_config( )
 	"me",
     "tools"
  },
-    sudo_users = {226861861},
+    sudo_users = {248132500},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
-    info_text = [[💡Welcome To TEAMBOSS  \nFor More Information Subscribe To The Channel @llDEV1ll \n\n https://github.com/moody2020/TEAMBOSS\n\n💡Dev : @TH3BOSS\n\n💡 Dev Bot : @ll60Kllbot\n\n💡 channel : @llDEV1ll\n
+    info_text = [[💡Welcome To TEAMGENERAL  \nFor More Information Subscribe To The Channel @KNSLTHM \n\n https://github.com/NENO70/GENERAL\n\n💡Dev : @KNSLTHM\n\n💡 Dev Bot : @NAHAR2_BOT\n\n💡 channel : @KNSLTHM\n
 ]],
   }
   serialize_to_file(config, './data/config.lua')
