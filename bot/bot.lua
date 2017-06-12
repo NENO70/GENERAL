@@ -71,7 +71,9 @@ function create_config( )
     "plugins",
 	"me",
     "tools",
-"replay"
+    "replay",
+    "save",
+    "set_time"
 
 			
  },
