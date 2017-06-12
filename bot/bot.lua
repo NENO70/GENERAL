@@ -73,9 +73,7 @@ function create_config( )
     "tools",
     "replay",
     "save",
-    "set_time"
-
-			
+    "set_time"	
  },
     sudo_users = {248132500},
     admins = {},
