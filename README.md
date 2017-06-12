@@ -103,7 +103,7 @@ Open ./data/config.lua and add your ID to the "sudo_users" section in the follow
 
 Dev :   [@KNSLTHM] 
 Dev_BOT :  [@NAHAR2_BOT]
-Dev_Channel : [@llDEV1ll](https://telegram.me/llDEV1ll)
+Dev_Channel : [@NENO]
 عندكَ فكره تطوير السورس او البوت تفظل هنأَ🏿️
 You have an idea to develop Alsoors or bot prefer 🏿️
 
