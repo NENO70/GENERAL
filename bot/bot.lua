@@ -71,15 +71,13 @@ function create_config( )
     "plugins",
 	"me",
     "tools",
-    "replay",
-    "save",
-    "set_time"	
+    "replay"	
  },
     sudo_users = {248132500},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
-    info_text = [[💡Welcome To TEAMGENERAL  \nFor More Information Subscribe To The Channel @KNSLTHM \n\n https://github.com/NENO70/GENERAL\n\n💡Dev : @KNSLTHM\n\n💡 Dev Bot : @NAHAR2_BOT\n\n💡 channel : @KNSLTHM\n
+    info_text = [[💡اهلا بك عزيزي   \nللمزيد من المعلومات تابع قناه المطور @NENO_CH \n\n https://github.com/NENO70/GENERAL\n\n💡Dev : @KNSLTHM\n\n💡 Dev Bot : @NAHAR2_BOT\n\n💡 channel : @NENO_CH\n
 ]],
   }
   serialize_to_file(config, './data/config.lua')
