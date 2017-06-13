@@ -10,6 +10,7 @@ do local _ = {
     "me",
     "addreplay",
     "deleall"
+     "replay"
   },
   info_text = "📌¦اهلا بك عزيزي \n\nGENERAL V14 \nللمزيد من المعلومات تابع قناه المطور  @NENO_CH \n https://github.com/NENO70/GENERAL\n\n📌¦ Dev @KNSLTHM\n\n📌¦ Dev Bot @NAHAR2_BOT\n\n📌¦ Channel @NENO_CH ",
   moderation = {
