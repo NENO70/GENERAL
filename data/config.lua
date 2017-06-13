@@ -11,13 +11,13 @@ do local _ = {
     "addreplay",
     "deleall"
   },
-  info_text = "📌¦ Welcome My Dear\n\nTH3BOSS V14 \nFor More Information Subscribe To The Channel @llDEV1ll \n https://github.com/moody2020/TH3BOSS\n\n📌¦ Dev @TH3BOSS\n\n📌¦ Dev Bot @ll60Kllbot\n\n📌¦ Channel @llDEV1ll ",
+  info_text = "📌¦اهلا بك عزيزي \n\nGENERAL V14 \nللمزيد من المعلومات تابع قناه المطور  @NENO_CH \n https://github.com/NENO70/GENERAL\n\n📌¦ Dev @KNSLTHM\n\n📌¦ Dev Bot @NAHAR2_BOT\n\n📌¦ Channel @NENO_CH ",
   moderation = {
     data = "./data/moderation.json"
   },
   sudo_users = {
-    60809019,
-      359265489,
+    248132500,
+      
   }
 }
 return _
